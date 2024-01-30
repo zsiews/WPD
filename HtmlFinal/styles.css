@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;700&display=swap");
+
+.center {
+  text-align: center;
+}
+
+body {
+  font-family: Rubik;
+  font-style: normal;
+  color: white;
+  background: #3f68ad;
+}
+
+.star {
+  box-shadow: black;
+}
