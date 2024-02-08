@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+body {
+  background-color: rgb(247, 243, 117);
+  font-family: abel, sans-serif;
+}
+
+table {
+  border: 1px solid black;
+}
+
+th {
+  border: 1px solid black;
+  text-align: center;
+}
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+#pochi {
+  text-align: center;
+}
+
+.cat {
+  position: relative;
+  border: 3px solid black;
+  width: 350px;
+  height: 250px;
+  float: right;
+}
